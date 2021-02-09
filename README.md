@@ -1,1 +1,1 @@
-# moveit_mujoco_connector
+# mujoco_moveit_connector
