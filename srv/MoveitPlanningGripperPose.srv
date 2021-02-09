@@ -1,0 +1,7 @@
+string group_name
+int64 ntrial
+geometry_msgs/Pose gripper_pose
+string gripper_link
+---
+bool success
+trajectory_msgs/JointTrajectory plan

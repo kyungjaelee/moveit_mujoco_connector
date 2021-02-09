@@ -1,0 +1,7 @@
+string group_name
+int64 ntrial
+string[] joint_names
+float64[] joint_poses
+---
+bool success
+trajectory_msgs/JointTrajectory plan
